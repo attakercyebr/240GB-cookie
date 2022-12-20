@@ -19,12 +19,12 @@
 
 - 🎁Music programs.
 
-# Get a license
+##### Get a license
 ----------------------
 - 🎁 Totally free for all channel members.
 
 
-# Get a LinkDownload
+##### Get a LinkDownload
 ----------------------
 - 📂 Your upload history:
 
@@ -37,7 +37,10 @@
 - ▪️ File type : File (document)
 
 - 💾 1 GB
-➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖
+
+#####LinkDownloads
+----------------------
+
 0.https://t.me/M4nifest0bot?start=_QKTYQSHF
 1.https://t.me/M4nifest0bot?start=_YKUPTYDMS
 2.https://t.me/M4nifest0bot?start=_NRZNVUTHI
